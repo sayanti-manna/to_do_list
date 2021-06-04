@@ -1,5 +1,5 @@
 applications:
-- name: node-hello-world
+- name: phptest123
   memory: 128M
   buildpack: php_buildpack 
 
