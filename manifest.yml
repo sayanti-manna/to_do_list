@@ -1,5 +1,5 @@
 applications:
-- name: phptest123
+- name: phpappnew
   memory: 128M
   buildpack: php_buildpack 
 
